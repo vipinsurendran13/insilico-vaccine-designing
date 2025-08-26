@@ -1,0 +1,120 @@
+User-provided sequence:
+        10         20         30         40         50         60 
+MAKLSTDELL DAFKEMTLLE LSDFVKKFEE TFEVTAAAPV AVAAAGAAPA GAAVEAAEEQ 
+
+        70         80         90        100        110        120 
+SEFDVILEAA GDKKIGVIKV VREIVSGLGL KEAKDLVDGA PKPLLEKVAK EAADEAKAKL 
+
+       130        140        150        160        170        180 
+EAAGATVTVK AAYQAFEAGV DFAAYYQVNN LEEIAAYRLE ELLPAVAAYT TIGEWAFWAA 
+
+       190        200        210        220        230        240 
+YRQWIPAGIG VAAYRTRREA IVNAAAYGVT GVIIAVAAYD EGAAIGLAWA AYEGAAIGLA 
+
+       250        260        270        280        290        300 
+WAAYKVVNYE AGEWAAYGTN ETEYLFAAYV VNYEAGEWAA YITGGRRTRR AAYITGGRRT 
+
+       310        320        330        340        350        360 
+RRAAYGIRGF PRCRAAYTEL RTFSILAAYK AIDFLLQRWA AYATQVEQHH RRAAYLESRF 
+
+       370        380        390        400        410        420 
+TPQFAAYNTT GKLIWKAAYS GYYSTTIRYA AYGYYSTTIR YAAYATQVEQ HHRAAYSEEL 
+
+       430        440        450        460        470        480 
+SFTVVAAYRT FSILNRKAAY EAIVNAQPKA AYFAFHKEGA FAAYRTFSIP LGVAAYRTFS 
+
+       490        500        510        520        530        540 
+IPLGVAAYSL EQRITSLGPG PGEISFQQTN AMVTLRKGPG PGYAPFARLL NLSGVNNGPG 
+
+       550        560        570        580        590        600 
+PGDFAFHKEG AFFLYDRGPG PGSSGYYSTT IRYQATGGPG PGVIILFQRT FSIPLGVGPG 
+
+       610        620        630        640        650        660 
+PGELSFTVVS NGAKNISGPG PGWVIILFQR TFSIPLGGPG PGMASENSSA MVQVHSQGPG 
+
+       670        680        690        700        710        720 
+PGSENSSAMV QVHSQGRGPG PGVPIFQDAA PPVIHIRGPG PGVVQQQTIA SESLEQRGPG 
+
+       730        740        750        760        770        780 
+PGEQRITSLE NGLKPVYGPG PGVPIFQDAA PPVIHIRGPG PGLEQRITSL ENGLKPVKKA 
+
+       790        800        810        820        830        840 
+PLTDNDRRNE PSGSTSPRML KKMDSRPQKK KHDANDAVKK LTESDMKKKH GEYAKKISTS 
+
+       850        860        870        880        890        900 
+PQSLTTKPGP DNSTHNTPVK KTGFGTNEKK PEIDTTIKKS QGREAKKPQS DNEEASTNPG 
+
+       910        920        930        940        950        960 
+TCSWSDKKRE AFNNLNSTTS LTEENFGKPD ISAKKKRGDI PRACQKSLRP VPPSPKIDKK 
+
+       970 
+QQTIASESLE QRITSLEN 
+
+[Documentation / Reference]
+Number of amino acids: 978
+Theoretical pI: 9.21
+Molecular weight: 105218.90
+
+Amino acid composition: 
+Ala (A) 136	 13.9%
+Arg (R)  52	  5.3%
+Asn (N)  32	  3.3%
+Asp (D)  28	  2.9%
+Cys (C)   3	  0.3%
+Gln (Q)  37	  3.8%
+Glu (E)  66	  6.7%
+Gly (G)  94	  9.6%
+His (H)  13	  1.3%
+Ile (I)  52	  5.3%
+Leu (L)  57	  5.8%
+Lys (K)  60	  6.1%
+Met (M)   9	  0.9%
+Phe (F)  37	  3.8%
+Pro (P)  67	  6.9%
+Ser (S)  60	  6.1%
+Thr (T)  62	  6.3%
+Trp (W)  11	  1.1%
+Tyr (Y)  47	  4.8%
+Val (V)  55	  5.6%
+Pyl (O)   0	  0.0%
+Sec (U)   0	  0.0%
+
+ (B)   0	  0.0%
+ (Z)   0	  0.0%
+ (X)   0	  0.0%
+
+Total number of negatively charged residues (Asp + Glu): 94
+Total number of positively charged residues (Arg + Lys): 112
+
+Atomic composition:
+Carbon      C	      4724
+Hydrogen    H	      7348
+Nitrogen    N	      1300
+Oxygen      O	      1405
+Sulfur      S	        12
+
+Formula: C4724H7348N1300O1405S12
+Total number of atoms: 14789
+
+Extinction coefficients:
+Extinction coefficients are in units of  M-1 cm-1, at 280 nm measured in water.
+Ext. coefficient   130655
+Abs 0.1% (=1 g/l)   1.242, assuming all pairs of Cys residues form cystines
+
+
+
+Ext. coefficient   130530
+Abs 0.1% (=1 g/l)   1.241, assuming all Cys residues are reduced
+
+Estimated half-life:
+The N-terminal of the sequence considered is M (Met).
+The estimated half-life is: 30 hours (mammalian reticulocytes, in vitro).
+                            >20 hours (yeast, in vivo).
+                            >10 hours (Escherichia coli, in vivo).
+
+Instability index:
+The instability index (II) is computed to be 31.08
+This classifies the protein as stable.
+
+Aliphatic index: 73.68
+Grand average of hydropathicity (GRAVY):-0.340
